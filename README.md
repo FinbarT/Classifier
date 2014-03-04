@@ -1,4 +1,4 @@
 Classifier
 ==========
 
-A csv file income predictor
+An income predictor, based on a csv file of records
